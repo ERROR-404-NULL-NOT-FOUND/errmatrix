@@ -57,6 +57,5 @@ def main():
 		refresh()
 		draw()
 		randomize()
-		clear_nodes()
 		sleep(0.05)
 main()
